@@ -38,12 +38,12 @@ This layered approach helps users understand how the model performs and how much
 
 ## Project Structure
 project folder 
-- README.md             # Detailed documentation file (this file)
-- coding.py             # Main Python script for summarization
-- installation.txt      # Python dependencies 
-- example1.wav          # Example input file
-- example2.wav          # Example input file
-- Outputs 
+- README.md                  # Detailed documentation file (this file)
+- coding.py                  # Main Python script for summarization
+- Installation & setup.md    # Python dependencies 
+- example1.wav               # Example input file 1
+- example2.wav               # Example input file 2
+- Outputs                    # Outputs for examples
 
 ## Features
 
