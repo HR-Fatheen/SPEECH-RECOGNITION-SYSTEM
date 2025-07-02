@@ -2,7 +2,7 @@
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username speech-to-text-transcriber.git
+git clone https://github.com/HR-Fatheen speech-to-text-transcriber.git
 cd speech-to-text-transcriber
 ```
 
